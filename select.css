@@ -1,0 +1,50 @@
+.order-form input {
+  padding: 7px 15px;
+  width: 100%;
+}
+
+.order-form input:focus {
+  border: 1px solid orange !important;
+  box-shadow: none !important;
+}
+
+.order-form select:focus {
+  border: 1px solid orange !important;
+  box-shadow: none !important;
+}
+
+.order-form textarea:focus {
+  border: 1px solid orange !important;
+  box-shadow: none !important;
+}
+
+.order-form select {
+  padding: 7px 15px;
+}
+
+.order-form {
+  margin: 30px 250px;
+  text-align: center;
+}
+
+.order-form button {
+  background-color: orange !important;
+  border: none !important;
+  /* width: 200px !important; */
+  padding: 7px 45px;
+  margin: 20px auto;
+}
+
+body{
+    background-color: #6eabe4;
+}
+
+.custom-order{
+    text-align: center;
+}
+
+.custom-order h1{
+    color: #fff;
+    font-weight: 700;
+    margin-bottom: 0%;
+}
